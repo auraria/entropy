@@ -1,5 +1,8 @@
-# entropy
-Script to calculate the entropy of a value, can be used as an import modul with some tuning.
+# Entropy
+Script to calculate the entropy of a value, can be used as an import module with some tuning.
+
+# Imports required
+numpy 
 
 
 # Usage
